@@ -1,0 +1,344 @@
+[
+{
+"bounce_rate": 72,
+"events": 6594535,
+"os": "Windows",
+"pageviews": 6594535,
+"visit_duration": 150,
+"visitors": 2938215,
+"visits": 3834263
+},
+{
+"bounce_rate": 75,
+"events": 2258454,
+"os": "Mac",
+"pageviews": 2258454,
+"visit_duration": 143,
+"visitors": 1116815,
+"visits": 1443994
+},
+{
+"bounce_rate": 73,
+"events": 821047,
+"os": "GNU/Linux",
+"pageviews": 821047,
+"visit_duration": 153,
+"visitors": 362600,
+"visits": 482104
+},
+{
+"bounce_rate": 73,
+"events": 614350,
+"os": "Android",
+"pageviews": 614350,
+"visit_duration": 105,
+"visitors": 309684,
+"visits": 342626
+},
+{
+"bounce_rate": 79,
+"events": 258602,
+"os": "iOS",
+"pageviews": 258602,
+"visit_duration": 77,
+"visitors": 153595,
+"visits": 172433
+},
+{
+"bounce_rate": 73,
+"events": 266117,
+"os": "Ubuntu",
+"pageviews": 266117,
+"visit_duration": 155,
+"visitors": 126427,
+"visits": 164054
+},
+{
+"bounce_rate": 72,
+"events": 34506,
+"os": "Chrome OS",
+"pageviews": 34506,
+"visit_duration": 144,
+"visitors": 16537,
+"visits": 20331
+},
+{
+"bounce_rate": 70,
+"events": 20490,
+"os": "iPadOS",
+"pageviews": 20490,
+"visit_duration": 128,
+"visitors": 9203,
+"visits": 10522
+},
+{
+"bounce_rate": 49,
+"events": 6074,
+"os": "HarmonyOS",
+"pageviews": 6074,
+"visit_duration": 181,
+"visitors": 1902,
+"visits": 2117
+},
+{
+"bounce_rate": 72,
+"events": 1306,
+"os": "Fedora",
+"pageviews": 1306,
+"visit_duration": 175,
+"visitors": 622,
+"visits": 829
+},
+{
+"bounce_rate": 71,
+"events": 840,
+"os": "(not set)",
+"pageviews": 840,
+"visit_duration": 127,
+"visitors": 260,
+"visits": 321
+},
+{
+"bounce_rate": 67,
+"events": 562,
+"os": "FreeBSD",
+"pageviews": 562,
+"visit_duration": 175,
+"visitors": 238,
+"visits": 307
+},
+{
+"bounce_rate": 71,
+"events": 162,
+"os": "KaiOS",
+"pageviews": 162,
+"visit_duration": 139,
+"visitors": 86,
+"visits": 92
+},
+{
+"bounce_rate": 73,
+"events": 197,
+"os": "OpenBSD",
+"pageviews": 197,
+"visit_duration": 128,
+"visitors": 79,
+"visits": 106
+},
+{
+"bounce_rate": 98,
+"events": 49,
+"os": "CyanogenMod",
+"pageviews": 49,
+"visit_duration": 29,
+"visitors": 35,
+"visits": 48
+},
+{
+"bounce_rate": 46,
+"events": 150,
+"os": "Tizen",
+"pageviews": 150,
+"visit_duration": 273,
+"visitors": 32,
+"visits": 35
+},
+{
+"bounce_rate": 74,
+"events": 59,
+"os": "RedOS",
+"pageviews": 59,
+"visit_duration": 128,
+"visitors": 22,
+"visits": 27
+},
+{
+"bounce_rate": 77,
+"events": 37,
+"os": "Solaris",
+"pageviews": 37,
+"visit_duration": 202,
+"visitors": 21,
+"visits": 26
+},
+{
+"bounce_rate": 71,
+"events": 22,
+"os": "Firefox OS",
+"pageviews": 22,
+"visit_duration": 59,
+"visitors": 14,
+"visits": 17
+},
+{
+"bounce_rate": 67,
+"events": 18,
+"os": "Android TV",
+"pageviews": 18,
+"visit_duration": 182,
+"visitors": 11,
+"visits": 12
+},
+{
+"bounce_rate": 78,
+"events": 14,
+"os": "PlayStation",
+"pageviews": 14,
+"visit_duration": 37,
+"visitors": 9,
+"visits": 9
+},
+{
+"bounce_rate": 40,
+"events": 32,
+"os": "Haiku OS",
+"pageviews": 32,
+"visit_duration": 704,
+"visitors": 8,
+"visits": 10
+},
+{
+"bounce_rate": 62,
+"events": 13,
+"os": "Windows Phone",
+"pageviews": 13,
+"visit_duration": 43,
+"visitors": 6,
+"visits": 8
+},
+{
+"bounce_rate": 71,
+"events": 13,
+"os": "Fuchsia",
+"pageviews": 13,
+"visit_duration": 21,
+"visitors": 6,
+"visits": 7
+},
+{
+"bounce_rate": 64,
+"events": 22,
+"os": "Remix OS",
+"pageviews": 22,
+"visit_duration": 55,
+"visitors": 6,
+"visits": 11
+},
+{
+"bounce_rate": 67,
+"events": 8,
+"os": "NetBSD",
+"pageviews": 8,
+"visit_duration": 21,
+"visitors": 5,
+"visits": 6
+},
+{
+"bounce_rate": 100,
+"events": 3,
+"os": "Sailfish OS",
+"pageviews": 3,
+"visit_duration": 0,
+"visitors": 3,
+"visits": 3
+},
+{
+"bounce_rate": 100,
+"events": 3,
+"os": "Symbian^3",
+"pageviews": 3,
+"visit_duration": 0,
+"visitors": 3,
+"visits": 3
+},
+{
+"bounce_rate": 67,
+"events": 6,
+"os": "Nintendo",
+"pageviews": 6,
+"visit_duration": 26,
+"visitors": 3,
+"visits": 3
+},
+{
+"bounce_rate": 50,
+"events": 3,
+"os": "OS/2",
+"pageviews": 3,
+"visit_duration": 3,
+"visitors": 2,
+"visits": 2
+},
+{
+"bounce_rate": 100,
+"events": 1,
+"os": "Plasma Mobile",
+"pageviews": 1,
+"visit_duration": 0,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 0,
+"events": 3,
+"os": "Debian",
+"pageviews": 3,
+"visit_duration": 59,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 0,
+"events": 3,
+"os": "Gentoo",
+"pageviews": 3,
+"visit_duration": 49,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 0,
+"events": 2,
+"os": "Slackware",
+"pageviews": 2,
+"visit_duration": 62,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 0,
+"events": 3,
+"os": "TmaxOS",
+"pageviews": 3,
+"visit_duration": 77,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 100,
+"events": 2,
+"os": "Rosa",
+"pageviews": 2,
+"visit_duration": 0,
+"visitors": 1,
+"visits": 2
+},
+{
+"bounce_rate": 100,
+"events": 1,
+"os": "Java ME",
+"pageviews": 1,
+"visit_duration": 0,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 0,
+"events": 6,
+"os": "Windows CE",
+"pageviews": 6,
+"visit_duration": 135,
+"visitors": 1,
+"visits": 2
+}
+]

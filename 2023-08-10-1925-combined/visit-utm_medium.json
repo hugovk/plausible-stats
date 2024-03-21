@@ -1,0 +1,182 @@
+[
+{
+"bounce_rate": 73,
+"events": 10875654,
+"pageviews": 10875654,
+"utm_medium": "Direct / None",
+"visit_duration": 144,
+"visitors": 5012391,
+"visits": 6472982
+},
+{
+"bounce_rate": 64,
+"events": 890,
+"pageviews": 890,
+"utm_medium": "email",
+"visit_duration": 156,
+"visitors": 416,
+"visits": 449
+},
+{
+"bounce_rate": 87,
+"events": 437,
+"pageviews": 437,
+"utm_medium": "learn-more",
+"visit_duration": 27,
+"visitors": 346,
+"visits": 371
+},
+{
+"bounce_rate": 93,
+"events": 280,
+"pageviews": 280,
+"utm_medium": "Exinfluencer",
+"visit_duration": 21,
+"visitors": 240,
+"visits": 260
+},
+{
+"bounce_rate": 41,
+"events": 133,
+"pageviews": 133,
+"utm_medium": "cpc",
+"visit_duration": 76,
+"visitors": 73,
+"visits": 73
+},
+{
+"bounce_rate": 83,
+"events": 88,
+"pageviews": 88,
+"utm_medium": "zalo",
+"visit_duration": 58,
+"visitors": 58,
+"visits": 66
+},
+{
+"bounce_rate": 34,
+"events": 103,
+"pageviews": 103,
+"utm_medium": "rtb-cpm",
+"visit_duration": 73,
+"visitors": 53,
+"visits": 53
+},
+{
+"bounce_rate": 35,
+"events": 37,
+"pageviews": 37,
+"utm_medium": "vdo.cpm",
+"visit_duration": 124,
+"visitors": 20,
+"visits": 20
+},
+{
+"bounce_rate": 53,
+"events": 32,
+"pageviews": 32,
+"utm_medium": "cpm",
+"visit_duration": 74,
+"visitors": 19,
+"visits": 19
+},
+{
+"bounce_rate": 100,
+"events": 10,
+"pageviews": 10,
+"utm_medium": "toutiao_ios",
+"visit_duration": 0,
+"visitors": 10,
+"visits": 10
+},
+{
+"bounce_rate": 100,
+"events": 5,
+"pageviews": 5,
+"utm_medium": "website",
+"visit_duration": 0,
+"visitors": 5,
+"visits": 5
+},
+{
+"bounce_rate": 60,
+"events": 12,
+"pageviews": 12,
+"utm_medium": "social",
+"visit_duration": 50,
+"visitors": 5,
+"visits": 5
+},
+{
+"bounce_rate": 80,
+"events": 6,
+"pageviews": 6,
+"utm_medium": "iframely",
+"visit_duration": 303,
+"visitors": 5,
+"visits": 5
+},
+{
+"bounce_rate": 75,
+"events": 6,
+"pageviews": 6,
+"utm_medium": "hashnode rix",
+"visit_duration": 4,
+"visitors": 4,
+"visits": 4
+},
+{
+"bounce_rate": 75,
+"events": 7,
+"pageviews": 7,
+"utm_medium": "comment",
+"visit_duration": 20,
+"visitors": 4,
+"visits": 4
+},
+{
+"bounce_rate": 0,
+"events": 4,
+"pageviews": 4,
+"utm_medium": "ad",
+"visit_duration": 290,
+"visitors": 2,
+"visits": 2
+},
+{
+"bounce_rate": 100,
+"events": 1,
+"pageviews": 1,
+"utm_medium": "academy",
+"visit_duration": 0,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 100,
+"events": 1,
+"pageviews": 1,
+"utm_medium": "web",
+"visit_duration": 0,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 100,
+"events": 1,
+"pageviews": 1,
+"utm_medium": "blog",
+"visit_duration": 0,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 0,
+"events": 2,
+"pageviews": 2,
+"utm_medium": "rss",
+"visit_duration": 161,
+"visitors": 1,
+"visits": 1
+}
+]

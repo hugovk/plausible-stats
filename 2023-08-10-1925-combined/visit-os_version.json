@@ -1,0 +1,2018 @@
+[
+{
+"bounce_rate": 72,
+"events": 6984222,
+"os_version": "10",
+"pageviews": 6984222,
+"visit_duration": 147,
+"visitors": 3147568,
+"visits": 4062129
+},
+{
+"bounce_rate": 75,
+"events": 2242978,
+"os_version": "10.15",
+"pageviews": 2242978,
+"visit_duration": 143,
+"visitors": 1109453,
+"visits": 1435338
+},
+{
+"bounce_rate": 73,
+"events": 1096309,
+"os_version": "(not set)",
+"pageviews": 1096309,
+"visit_duration": 154,
+"visitors": 492122,
+"visits": 649794
+},
+{
+"bounce_rate": 79,
+"events": 151692,
+"os_version": "16.5",
+"pageviews": 151692,
+"visit_duration": 76,
+"visitors": 89355,
+"visits": 100389
+},
+{
+"bounce_rate": 70,
+"events": 58289,
+"os_version": "13",
+"pageviews": 58289,
+"visit_duration": 111,
+"visitors": 26844,
+"visits": 29885
+},
+{
+"bounce_rate": 70,
+"events": 40897,
+"os_version": "12",
+"pageviews": 40897,
+"visit_duration": 111,
+"visitors": 18911,
+"visits": 20927
+},
+{
+"bounce_rate": 78,
+"events": 29834,
+"os_version": "16.6",
+"pageviews": 29834,
+"visit_duration": 79,
+"visitors": 17396,
+"visits": 19498
+},
+{
+"bounce_rate": 70,
+"events": 36963,
+"os_version": "11",
+"pageviews": 36963,
+"visit_duration": 109,
+"visitors": 17292,
+"visits": 18781
+},
+{
+"bounce_rate": 72,
+"events": 31014,
+"os_version": "14541.0",
+"pageviews": 31014,
+"visit_duration": 142,
+"visitors": 15075,
+"visits": 18602
+},
+{
+"bounce_rate": 70,
+"events": 36179,
+"os_version": "7",
+"pageviews": 36179,
+"visit_duration": 152,
+"visitors": 14607,
+"visits": 18353
+},
+{
+"bounce_rate": 79,
+"events": 18126,
+"os_version": "16.3",
+"pageviews": 18126,
+"visit_duration": 104,
+"visitors": 10469,
+"visits": 11910
+},
+{
+"bounce_rate": 79,
+"events": 15872,
+"os_version": "16.1",
+"pageviews": 15872,
+"visit_duration": 75,
+"visitors": 9634,
+"visits": 10689
+},
+{
+"bounce_rate": 70,
+"events": 16994,
+"os_version": "8.1",
+"pageviews": 16994,
+"visit_duration": 129,
+"visitors": 7777,
+"visits": 9079
+},
+{
+"bounce_rate": 70,
+"events": 14924,
+"os_version": "9",
+"pageviews": 14924,
+"visit_duration": 116,
+"visitors": 6730,
+"visits": 7431
+},
+{
+"bounce_rate": 75,
+"events": 11671,
+"os_version": "15.7",
+"pageviews": 11671,
+"visit_duration": 107,
+"visitors": 6164,
+"visits": 7063
+},
+{
+"bounce_rate": 80,
+"events": 8806,
+"os_version": "16.2",
+"pageviews": 8806,
+"visit_duration": 69,
+"visitors": 5405,
+"visits": 5952
+},
+{
+"bounce_rate": 82,
+"events": 7052,
+"os_version": "16.0",
+"pageviews": 7052,
+"visit_duration": 53,
+"visitors": 4776,
+"visits": 5248
+},
+{
+"bounce_rate": 78,
+"events": 6507,
+"os_version": "17.0",
+"pageviews": 6507,
+"visit_duration": 60,
+"visitors": 3891,
+"visits": 4235
+},
+{
+"bounce_rate": 81,
+"events": 5773,
+"os_version": "15.6",
+"pageviews": 5773,
+"visit_duration": 81,
+"visitors": 3493,
+"visits": 3988
+},
+{
+"bounce_rate": 72,
+"events": 5913,
+"os_version": "6.0",
+"pageviews": 5913,
+"visit_duration": 102,
+"visitors": 2890,
+"visits": 3174
+},
+{
+"bounce_rate": 78,
+"events": 4834,
+"os_version": "16.4",
+"pageviews": 4834,
+"visit_duration": 92,
+"visitors": 2619,
+"visits": 2883
+},
+{
+"bounce_rate": 71,
+"events": 4487,
+"os_version": "10.14",
+"pageviews": 4487,
+"visit_duration": 138,
+"visitors": 2239,
+"visits": 2673
+},
+{
+"bounce_rate": 70,
+"events": 4864,
+"os_version": "10.13",
+"pageviews": 4864,
+"visit_duration": 168,
+"visitors": 1998,
+"visits": 2359
+},
+{
+"bounce_rate": 77,
+"events": 2404,
+"os_version": "15.5",
+"pageviews": 2404,
+"visit_duration": 81,
+"visitors": 1403,
+"visits": 1585
+},
+{
+"bounce_rate": 72,
+"events": 3015,
+"os_version": "12.5",
+"pageviews": 3015,
+"visit_duration": 131,
+"visitors": 1378,
+"visits": 1628
+},
+{
+"bounce_rate": 73,
+"events": 2801,
+"os_version": "8.0",
+"pageviews": 2801,
+"visit_duration": 116,
+"visitors": 1372,
+"visits": 1478
+},
+{
+"bounce_rate": 66,
+"events": 2709,
+"os_version": "5.1",
+"pageviews": 2709,
+"visit_duration": 162,
+"visitors": 1103,
+"visits": 1272
+},
+{
+"bounce_rate": 74,
+"events": 1935,
+"os_version": "10.12",
+"pageviews": 1935,
+"visit_duration": 116,
+"visitors": 1020,
+"visits": 1165
+},
+{
+"bounce_rate": 74,
+"events": 1952,
+"os_version": "15.4",
+"pageviews": 1952,
+"visit_duration": 105,
+"visitors": 1000,
+"visits": 1101
+},
+{
+"bounce_rate": 78,
+"events": 2467,
+"os_version": "11.0",
+"pageviews": 2467,
+"visit_duration": 115,
+"visitors": 1000,
+"visits": 1628
+},
+{
+"bounce_rate": 65,
+"events": 1887,
+"os_version": "7.0",
+"pageviews": 1887,
+"visit_duration": 128,
+"visitors": 832,
+"visits": 921
+},
+{
+"bounce_rate": 68,
+"events": 1959,
+"os_version": "7.1",
+"pageviews": 1959,
+"visit_duration": 116,
+"visitors": 830,
+"visits": 914
+},
+{
+"bounce_rate": 83,
+"events": 1038,
+"os_version": "15.1",
+"pageviews": 1038,
+"visit_duration": 70,
+"visitors": 640,
+"visits": 738
+},
+{
+"bounce_rate": 84,
+"events": 1173,
+"os_version": "14.8",
+"pageviews": 1173,
+"visit_duration": 78,
+"visitors": 640,
+"visits": 720
+},
+{
+"bounce_rate": 74,
+"events": 1181,
+"os_version": "8",
+"pageviews": 1181,
+"visit_duration": 96,
+"visitors": 601,
+"visits": 698
+},
+{
+"bounce_rate": 80,
+"events": 954,
+"os_version": "15.3",
+"pageviews": 954,
+"visit_duration": 84,
+"visitors": 559,
+"visits": 620
+},
+{
+"bounce_rate": 74,
+"events": 889,
+"os_version": "14816.131",
+"pageviews": 889,
+"visit_duration": 100,
+"visitors": 482,
+"visits": 549
+},
+{
+"bounce_rate": 74,
+"events": 857,
+"os_version": "14.7",
+"pageviews": 857,
+"visit_duration": 147,
+"visitors": 462,
+"visits": 529
+},
+{
+"bounce_rate": 82,
+"events": 813,
+"os_version": "5.0",
+"pageviews": 813,
+"visit_duration": 92,
+"visitors": 437,
+"visits": 460
+},
+{
+"bounce_rate": 79,
+"events": 713,
+"os_version": "15.2",
+"pageviews": 713,
+"visit_duration": 74,
+"visitors": 416,
+"visits": 457
+},
+{
+"bounce_rate": 79,
+"events": 658,
+"os_version": "14.4",
+"pageviews": 658,
+"visit_duration": 72,
+"visitors": 392,
+"visits": 445
+},
+{
+"bounce_rate": 62,
+"events": 899,
+"os_version": "4.4",
+"pageviews": 899,
+"visit_duration": 118,
+"visitors": 383,
+"visits": 416
+},
+{
+"bounce_rate": 65,
+"events": 799,
+"os_version": "13597.84",
+"pageviews": 799,
+"visit_duration": 190,
+"visitors": 340,
+"visits": 418
+},
+{
+"bounce_rate": 73,
+"events": 742,
+"os_version": "14.6",
+"pageviews": 742,
+"visit_duration": 92,
+"visitors": 329,
+"visits": 376
+},
+{
+"bounce_rate": 77,
+"events": 470,
+"os_version": "15.0",
+"pageviews": 470,
+"visit_duration": 48,
+"visitors": 299,
+"visits": 319
+},
+{
+"bounce_rate": 72,
+"events": 633,
+"os_version": "10.11",
+"pageviews": 633,
+"visit_duration": 140,
+"visitors": 282,
+"visits": 337
+},
+{
+"bounce_rate": 75,
+"events": 512,
+"os_version": "3.0",
+"pageviews": 512,
+"visit_duration": 75,
+"visitors": 271,
+"visits": 279
+},
+{
+"bounce_rate": 72,
+"events": 566,
+"os_version": "2.2",
+"pageviews": 566,
+"visit_duration": 175,
+"visitors": 219,
+"visits": 239
+},
+{
+"bounce_rate": 74,
+"events": 389,
+"os_version": "13.3",
+"pageviews": 389,
+"visit_duration": 109,
+"visitors": 215,
+"visits": 241
+},
+{
+"bounce_rate": 67,
+"events": 554,
+"os_version": "XP",
+"pageviews": 554,
+"visit_duration": 146,
+"visitors": 210,
+"visits": 255
+},
+{
+"bounce_rate": 73,
+"events": 817,
+"os_version": "10.16",
+"pageviews": 817,
+"visit_duration": 149,
+"visitors": 173,
+"visits": 202
+},
+{
+"bounce_rate": 65,
+"events": 393,
+"os_version": "10.3",
+"pageviews": 393,
+"visit_duration": 233,
+"visitors": 149,
+"visits": 170
+},
+{
+"bounce_rate": 52,
+"events": 738,
+"os_version": "14092.77",
+"pageviews": 738,
+"visit_duration": 348,
+"visitors": 145,
+"visits": 198
+},
+{
+"bounce_rate": 84,
+"events": 210,
+"os_version": "13.5",
+"pageviews": 210,
+"visit_duration": 47,
+"visitors": 143,
+"visits": 158
+},
+{
+"bounce_rate": 77,
+"events": 248,
+"os_version": "10.10",
+"pageviews": 248,
+"visit_duration": 72,
+"visitors": 142,
+"visits": 158
+},
+{
+"bounce_rate": 72,
+"events": 278,
+"os_version": "14.2",
+"pageviews": 278,
+"visit_duration": 121,
+"visitors": 139,
+"visits": 153
+},
+{
+"bounce_rate": 82,
+"events": 209,
+"os_version": "14.3",
+"pageviews": 209,
+"visit_duration": 79,
+"visitors": 134,
+"visits": 151
+},
+{
+"bounce_rate": 79,
+"events": 269,
+"os_version": "13.6",
+"pageviews": 269,
+"visit_duration": 160,
+"visitors": 121,
+"visits": 141
+},
+{
+"bounce_rate": 74,
+"events": 252,
+"os_version": "13.4",
+"pageviews": 252,
+"visit_duration": 171,
+"visitors": 103,
+"visits": 133
+},
+{
+"bounce_rate": 80,
+"events": 157,
+"os_version": "NT",
+"pageviews": 157,
+"visit_duration": 52,
+"visitors": 101,
+"visits": 107
+},
+{
+"bounce_rate": 65,
+"events": 286,
+"os_version": "Vista",
+"pageviews": 286,
+"visit_duration": 278,
+"visitors": 96,
+"visits": 136
+},
+{
+"bounce_rate": 50,
+"events": 321,
+"os_version": "Server 2003",
+"pageviews": 321,
+"visit_duration": 126,
+"visitors": 96,
+"visits": 110
+},
+{
+"bounce_rate": 69,
+"events": 165,
+"os_version": "14989.107",
+"pageviews": 165,
+"visit_duration": 138,
+"visitors": 95,
+"visits": 104
+},
+{
+"bounce_rate": 69,
+"events": 158,
+"os_version": "2.5",
+"pageviews": 158,
+"visit_duration": 145,
+"visitors": 82,
+"visits": 88
+},
+{
+"bounce_rate": 89,
+"events": 107,
+"os_version": "12.0",
+"pageviews": 107,
+"visit_duration": 64,
+"visitors": 81,
+"visits": 85
+},
+{
+"bounce_rate": 73,
+"events": 153,
+"os_version": "14.5",
+"pageviews": 153,
+"visit_duration": 87,
+"visitors": 76,
+"visits": 85
+},
+{
+"bounce_rate": 79,
+"events": 101,
+"os_version": "14.0",
+"pageviews": 101,
+"visit_duration": 129,
+"visitors": 68,
+"visits": 70
+},
+{
+"bounce_rate": 75,
+"events": 187,
+"os_version": "12.4",
+"pageviews": 187,
+"visit_duration": 179,
+"visitors": 68,
+"visits": 114
+},
+{
+"bounce_rate": 75,
+"events": 116,
+"os_version": "12.1",
+"pageviews": 116,
+"visit_duration": 85,
+"visitors": 61,
+"visits": 73
+},
+{
+"bounce_rate": 77,
+"events": 129,
+"os_version": "11.4",
+"pageviews": 129,
+"visit_duration": 112,
+"visitors": 59,
+"visits": 66
+},
+{
+"bounce_rate": 80,
+"events": 98,
+"os_version": "13.2",
+"pageviews": 98,
+"visit_duration": 44,
+"visitors": 56,
+"visits": 59
+},
+{
+"bounce_rate": 64,
+"events": 163,
+"os_version": "10.9",
+"pageviews": 163,
+"visit_duration": 231,
+"visitors": 55,
+"visits": 72
+},
+{
+"bounce_rate": 70,
+"events": 161,
+"os_version": "13904.97",
+"pageviews": 161,
+"visit_duration": 92,
+"visitors": 51,
+"visits": 69
+},
+{
+"bounce_rate": 68,
+"events": 118,
+"os_version": "14.1",
+"pageviews": 118,
+"visit_duration": 78,
+"visitors": 50,
+"visits": 57
+},
+{
+"bounce_rate": 53,
+"events": 229,
+"os_version": "4.2",
+"pageviews": 229,
+"visit_duration": 317,
+"visitors": 46,
+"visits": 58
+},
+{
+"bounce_rate": 81,
+"events": 69,
+"os_version": "13.7",
+"pageviews": 69,
+"visit_duration": 70,
+"visitors": 42,
+"visits": 47
+},
+{
+"bounce_rate": 84,
+"events": 58,
+"os_version": "12239.92",
+"pageviews": 58,
+"visit_duration": 95,
+"visitors": 40,
+"visits": 44
+},
+{
+"bounce_rate": 25,
+"events": 209,
+"os_version": "2.1",
+"pageviews": 209,
+"visit_duration": 283,
+"visitors": 39,
+"visits": 68
+},
+{
+"bounce_rate": 84,
+"events": 53,
+"os_version": "11.1",
+"pageviews": 53,
+"visit_duration": 8,
+"visitors": 38,
+"visits": 44
+},
+{
+"bounce_rate": 81,
+"events": 58,
+"os_version": "12.6",
+"pageviews": 58,
+"visit_duration": 108,
+"visitors": 36,
+"visits": 37
+},
+{
+"bounce_rate": 62,
+"events": 96,
+"os_version": "10.6",
+"pageviews": 96,
+"visit_duration": 137,
+"visitors": 36,
+"visits": 63
+},
+{
+"bounce_rate": 70,
+"events": 63,
+"os_version": "13.1",
+"pageviews": 63,
+"visit_duration": 171,
+"visitors": 35,
+"visits": 37
+},
+{
+"bounce_rate": 78,
+"events": 58,
+"os_version": "10.0",
+"pageviews": 58,
+"visit_duration": 74,
+"visitors": 35,
+"visits": 41
+},
+{
+"bounce_rate": 72,
+"events": 67,
+"os_version": "14",
+"pageviews": 67,
+"visit_duration": 110,
+"visitors": 35,
+"visits": 36
+},
+{
+"bounce_rate": 73,
+"events": 83,
+"os_version": "12.2",
+"pageviews": 83,
+"visit_duration": 247,
+"visitors": 34,
+"visits": 41
+},
+{
+"bounce_rate": 96,
+"events": 51,
+"os_version": "11.10",
+"pageviews": 51,
+"visit_duration": 13,
+"visitors": 34,
+"visits": 49
+},
+{
+"bounce_rate": 87,
+"events": 52,
+"os_version": "12.3",
+"pageviews": 52,
+"visit_duration": 12,
+"visitors": 34,
+"visits": 38
+},
+{
+"bounce_rate": 57,
+"events": 130,
+"os_version": "13099.110",
+"pageviews": 130,
+"visit_duration": 377,
+"visitors": 33,
+"visits": 37
+},
+{
+"bounce_rate": 78,
+"events": 46,
+"os_version": "11.2",
+"pageviews": 46,
+"visit_duration": 73,
+"visitors": 32,
+"visits": 32
+},
+{
+"bounce_rate": 67,
+"events": 61,
+"os_version": "9.0",
+"pageviews": 61,
+"visit_duration": 62,
+"visitors": 30,
+"visits": 30
+},
+{
+"bounce_rate": 68,
+"events": 36,
+"os_version": "11.6",
+"pageviews": 36,
+"visit_duration": 119,
+"visitors": 25,
+"visits": 25
+},
+{
+"bounce_rate": 73,
+"events": 34,
+"os_version": "4.1",
+"pageviews": 34,
+"visit_duration": 102,
+"visitors": 23,
+"visits": 26
+},
+{
+"bounce_rate": 87,
+"events": 34,
+"os_version": "11.3",
+"pageviews": 34,
+"visit_duration": 12,
+"visitors": 22,
+"visits": 23
+},
+{
+"bounce_rate": 52,
+"events": 85,
+"os_version": "4.0",
+"pageviews": 85,
+"visit_duration": 492,
+"visitors": 21,
+"visits": 25
+},
+{
+"bounce_rate": 86,
+"events": 27,
+"os_version": "13.0",
+"pageviews": 27,
+"visit_duration": 109,
+"visitors": 20,
+"visits": 21
+},
+{
+"bounce_rate": 35,
+"events": 143,
+"os_version": "4.3",
+"pageviews": 143,
+"visit_duration": 200,
+"visitors": 19,
+"visits": 20
+},
+{
+"bounce_rate": 89,
+"events": 24,
+"os_version": "1.0",
+"pageviews": 24,
+"visit_duration": 4,
+"visitors": 17,
+"visits": 18
+},
+{
+"bounce_rate": 68,
+"events": 34,
+"os_version": "10.2",
+"pageviews": 34,
+"visit_duration": 184,
+"visitors": 17,
+"visits": 19
+},
+{
+"bounce_rate": 36,
+"events": 68,
+"os_version": "15183.90",
+"pageviews": 68,
+"visit_duration": 318,
+"visitors": 16,
+"visits": 25
+},
+{
+"bounce_rate": 61,
+"events": 30,
+"os_version": "15236.80",
+"pageviews": 30,
+"visit_duration": 372,
+"visitors": 13,
+"visits": 18
+},
+{
+"bounce_rate": 77,
+"events": 26,
+"os_version": "11.5",
+"pageviews": 26,
+"visit_duration": 236,
+"visitors": 13,
+"visits": 13
+},
+{
+"bounce_rate": 58,
+"events": 22,
+"os_version": "13982.82",
+"pageviews": 22,
+"visit_duration": 113,
+"visitors": 12,
+"visits": 12
+},
+{
+"bounce_rate": 86,
+"events": 19,
+"os_version": "14909.100",
+"pageviews": 19,
+"visit_duration": 21,
+"visitors": 12,
+"visits": 14
+},
+{
+"bounce_rate": 57,
+"events": 30,
+"os_version": "12105.100",
+"pageviews": 30,
+"visit_duration": 36,
+"visitors": 12,
+"visits": 14
+},
+{
+"bounce_rate": 93,
+"events": 17,
+"os_version": "10.8",
+"pageviews": 17,
+"visit_duration": 26,
+"visitors": 12,
+"visits": 15
+},
+{
+"bounce_rate": 93,
+"events": 16,
+"os_version": "14695.187",
+"pageviews": 16,
+"visit_duration": 20,
+"visitors": 10,
+"visits": 14
+},
+{
+"bounce_rate": 60,
+"events": 14,
+"os_version": "13816.82",
+"pageviews": 14,
+"visit_duration": 35,
+"visitors": 10,
+"visits": 10
+},
+{
+"bounce_rate": 58,
+"events": 34,
+"os_version": "14816.17",
+"pageviews": 34,
+"visit_duration": 345,
+"visitors": 10,
+"visits": 12
+},
+{
+"bounce_rate": 78,
+"events": 14,
+"os_version": "4.10",
+"pageviews": 14,
+"visit_duration": 37,
+"visitors": 9,
+"visits": 9
+},
+{
+"bounce_rate": 73,
+"events": 16,
+"os_version": "4.93",
+"pageviews": 16,
+"visit_duration": 341,
+"visitors": 9,
+"visits": 11
+},
+{
+"bounce_rate": 67,
+"events": 14,
+"os_version": "14989.85",
+"pageviews": 14,
+"visit_duration": 208,
+"visitors": 9,
+"visits": 9
+},
+{
+"bounce_rate": 91,
+"events": 13,
+"os_version": "28",
+"pageviews": 13,
+"visit_duration": 37,
+"visitors": 9,
+"visits": 11
+},
+{
+"bounce_rate": 56,
+"events": 14,
+"os_version": "5.5",
+"pageviews": 14,
+"visit_duration": 74,
+"visitors": 9,
+"visits": 9
+},
+{
+"bounce_rate": 62,
+"events": 15,
+"os_version": "12371.89",
+"pageviews": 15,
+"visit_duration": 91,
+"visitors": 8,
+"visits": 8
+},
+{
+"bounce_rate": 88,
+"events": 18,
+"os_version": "10.5",
+"pageviews": 18,
+"visit_duration": 190,
+"visitors": 8,
+"visits": 8
+},
+{
+"bounce_rate": 88,
+"events": 9,
+"os_version": "14695.85",
+"pageviews": 9,
+"visit_duration": 84,
+"visitors": 8,
+"visits": 8
+},
+{
+"bounce_rate": 100,
+"events": 8,
+"os_version": "9.3",
+"pageviews": 8,
+"visit_duration": 0,
+"visitors": 7,
+"visits": 8
+},
+{
+"bounce_rate": 100,
+"events": 7,
+"os_version": "11.7",
+"pageviews": 7,
+"visit_duration": 0,
+"visitors": 7,
+"visits": 7
+},
+{
+"bounce_rate": 56,
+"events": 13,
+"os_version": "544",
+"pageviews": 13,
+"visit_duration": 8,
+"visitors": 7,
+"visits": 9
+},
+{
+"bounce_rate": 71,
+"events": 10,
+"os_version": "14388.61",
+"pageviews": 10,
+"visit_duration": 44,
+"visitors": 6,
+"visits": 7
+},
+{
+"bounce_rate": 100,
+"events": 6,
+"os_version": "15054.114",
+"pageviews": 6,
+"visit_duration": 0,
+"visitors": 6,
+"visits": 6
+},
+{
+"bounce_rate": 71,
+"events": 14,
+"os_version": "6.1",
+"pageviews": 14,
+"visit_duration": 45,
+"visitors": 6,
+"visits": 7
+},
+{
+"bounce_rate": 83,
+"events": 9,
+"os_version": "542",
+"pageviews": 9,
+"visit_duration": 34,
+"visitors": 6,
+"visits": 6
+},
+{
+"bounce_rate": 57,
+"events": 10,
+"os_version": "10.7",
+"pageviews": 10,
+"visit_duration": 85,
+"visitors": 6,
+"visits": 7
+},
+{
+"bounce_rate": 43,
+"events": 22,
+"os_version": "13816.55",
+"pageviews": 22,
+"visit_duration": 275,
+"visitors": 6,
+"visits": 7
+},
+{
+"bounce_rate": 64,
+"events": 22,
+"os_version": "2",
+"pageviews": 22,
+"visit_duration": 55,
+"visitors": 6,
+"visits": 11
+},
+{
+"bounce_rate": 88,
+"events": 9,
+"os_version": "8888.8888",
+"pageviews": 9,
+"visit_duration": 0,
+"visitors": 6,
+"visits": 8
+},
+{
+"bounce_rate": 100,
+"events": 5,
+"os_version": "14.04",
+"pageviews": 5,
+"visit_duration": 0,
+"visitors": 5,
+"visits": 5
+},
+{
+"bounce_rate": 60,
+"events": 9,
+"os_version": "15278.72",
+"pageviews": 9,
+"visit_duration": 46,
+"visitors": 5,
+"visits": 5
+},
+{
+"bounce_rate": 80,
+"events": 6,
+"os_version": "14588.123",
+"pageviews": 6,
+"visit_duration": 1,
+"visitors": 5,
+"visits": 5
+},
+{
+"bounce_rate": 40,
+"events": 22,
+"os_version": "16.04",
+"pageviews": 22,
+"visit_duration": 182,
+"visitors": 5,
+"visits": 10
+},
+{
+"bounce_rate": 80,
+"events": 6,
+"os_version": "14588.98",
+"pageviews": 6,
+"visit_duration": 28,
+"visitors": 5,
+"visits": 5
+},
+{
+"bounce_rate": 80,
+"events": 9,
+"os_version": "11.14",
+"pageviews": 9,
+"visit_duration": 8,
+"visitors": 5,
+"visits": 5
+},
+{
+"bounce_rate": 100,
+"events": 4,
+"os_version": "12871.91",
+"pageviews": 4,
+"visit_duration": 0,
+"visitors": 4,
+"visits": 4
+},
+{
+"bounce_rate": 100,
+"events": 4,
+"os_version": "14324.62",
+"pageviews": 4,
+"visit_duration": 0,
+"visitors": 4,
+"visits": 4
+},
+{
+"bounce_rate": 20,
+"events": 13,
+"os_version": "15117.112",
+"pageviews": 13,
+"visit_duration": 182,
+"visitors": 4,
+"visits": 5
+},
+{
+"bounce_rate": 75,
+"events": 6,
+"os_version": "10.4",
+"pageviews": 6,
+"visit_duration": 3,
+"visitors": 4,
+"visits": 4
+},
+{
+"bounce_rate": 33,
+"events": 11,
+"os_version": "9.2",
+"pageviews": 11,
+"visit_duration": 96,
+"visitors": 4,
+"visits": 6
+},
+{
+"bounce_rate": 50,
+"events": 6,
+"os_version": "14695.107",
+"pageviews": 6,
+"visit_duration": 12,
+"visitors": 4,
+"visits": 4
+},
+{
+"bounce_rate": 100,
+"events": 4,
+"os_version": "11.13",
+"pageviews": 4,
+"visit_duration": 0,
+"visitors": 4,
+"visits": 4
+},
+{
+"bounce_rate": 100,
+"events": 4,
+"os_version": "14526.57",
+"pageviews": 4,
+"visit_duration": 0,
+"visitors": 4,
+"visits": 4
+},
+{
+"bounce_rate": 80,
+"events": 6,
+"os_version": "13099.85",
+"pageviews": 6,
+"visit_duration": 11,
+"visitors": 4,
+"visits": 5
+},
+{
+"bounce_rate": 100,
+"events": 3,
+"os_version": "540",
+"pageviews": 3,
+"visit_duration": 0,
+"visitors": 3,
+"visits": 3
+},
+{
+"bounce_rate": 100,
+"events": 5,
+"os_version": "4319.74",
+"pageviews": 5,
+"visit_duration": 0,
+"visitors": 3,
+"visits": 5
+},
+{
+"bounce_rate": 67,
+"events": 4,
+"os_version": "15236.66",
+"pageviews": 4,
+"visit_duration": 27,
+"visitors": 3,
+"visits": 3
+},
+{
+"bounce_rate": 67,
+"events": 4,
+"os_version": "15183.78",
+"pageviews": 4,
+"visit_duration": 16,
+"visitors": 3,
+"visits": 3
+},
+{
+"bounce_rate": 100,
+"events": 3,
+"os_version": "11.15",
+"pageviews": 3,
+"visit_duration": 0,
+"visitors": 3,
+"visits": 3
+},
+{
+"bounce_rate": 33,
+"events": 11,
+"os_version": "14092.66",
+"pageviews": 11,
+"visit_duration": 171,
+"visitors": 3,
+"visits": 3
+},
+{
+"bounce_rate": 67,
+"events": 4,
+"os_version": "14092.57",
+"pageviews": 4,
+"visit_duration": 143,
+"visitors": 3,
+"visits": 3
+},
+{
+"bounce_rate": 33,
+"events": 15,
+"os_version": "11316.165",
+"pageviews": 15,
+"visit_duration": 165,
+"visitors": 3,
+"visits": 3
+},
+{
+"bounce_rate": 67,
+"events": 4,
+"os_version": "14268.79",
+"pageviews": 4,
+"visit_duration": 1,
+"visitors": 3,
+"visits": 3
+},
+{
+"bounce_rate": 33,
+"events": 5,
+"os_version": "11.11",
+"pageviews": 5,
+"visit_duration": 14,
+"visitors": 3,
+"visits": 3
+},
+{
+"bounce_rate": 33,
+"events": 5,
+"os_version": "15054.98",
+"pageviews": 5,
+"visit_duration": 101,
+"visitors": 3,
+"visits": 3
+},
+{
+"bounce_rate": 100,
+"events": 3,
+"os_version": "Anna",
+"pageviews": 3,
+"visit_duration": 0,
+"visitors": 3,
+"visits": 3
+},
+{
+"bounce_rate": 100,
+"events": 3,
+"os_version": "20.04",
+"pageviews": 3,
+"visit_duration": 0,
+"visitors": 3,
+"visits": 3
+},
+{
+"bounce_rate": 33,
+"events": 7,
+"os_version": "10323.67",
+"pageviews": 7,
+"visit_duration": 104,
+"visitors": 3,
+"visits": 3
+},
+{
+"bounce_rate": 100,
+"events": 3,
+"os_version": "10.1",
+"pageviews": 3,
+"visit_duration": 0,
+"visitors": 3,
+"visits": 3
+},
+{
+"bounce_rate": 100,
+"events": 3,
+"os_version": "3.1",
+"pageviews": 3,
+"visit_duration": 0,
+"visitors": 3,
+"visits": 3
+},
+{
+"bounce_rate": 0,
+"events": 22,
+"os_version": "10895.78",
+"pageviews": 22,
+"visit_duration": 1305,
+"visitors": 3,
+"visits": 4
+},
+{
+"bounce_rate": 67,
+"events": 6,
+"os_version": "Switch",
+"pageviews": 6,
+"visit_duration": 26,
+"visitors": 3,
+"visits": 3
+},
+{
+"bounce_rate": 50,
+"events": 5,
+"os_version": "14092.46",
+"pageviews": 5,
+"visit_duration": 77,
+"visitors": 2,
+"visits": 2
+},
+{
+"bounce_rate": 100,
+"events": 2,
+"os_version": "14816.64",
+"pageviews": 2,
+"visit_duration": 0,
+"visitors": 2,
+"visits": 2
+},
+{
+"bounce_rate": 100,
+"events": 2,
+"os_version": "14092.9",
+"pageviews": 2,
+"visit_duration": 0,
+"visitors": 2,
+"visits": 2
+},
+{
+"bounce_rate": 100,
+"events": 3,
+"os_version": "13982.69",
+"pageviews": 3,
+"visit_duration": 0,
+"visitors": 2,
+"visits": 3
+},
+{
+"bounce_rate": 50,
+"events": 4,
+"os_version": "14388.27",
+"pageviews": 4,
+"visit_duration": 114,
+"visitors": 2,
+"visits": 2
+},
+{
+"bounce_rate": 100,
+"events": 3,
+"os_version": "13904.41",
+"pageviews": 3,
+"visit_duration": 0,
+"visitors": 2,
+"visits": 3
+},
+{
+"bounce_rate": 50,
+"events": 5,
+"os_version": "14526.89",
+"pageviews": 5,
+"visit_duration": 15,
+"visitors": 2,
+"visits": 2
+},
+{
+"bounce_rate": 100,
+"events": 2,
+"os_version": "14685.0",
+"pageviews": 2,
+"visit_duration": 0,
+"visitors": 2,
+"visits": 2
+},
+{
+"bounce_rate": 20,
+"events": 39,
+"os_version": "5.12",
+"pageviews": 39,
+"visit_duration": 1202,
+"visitors": 2,
+"visits": 5
+},
+{
+"bounce_rate": 100,
+"events": 2,
+"os_version": "2000",
+"pageviews": 2,
+"visit_duration": 0,
+"visitors": 2,
+"visits": 2
+},
+{
+"bounce_rate": 0,
+"events": 4,
+"os_version": "9202.64",
+"pageviews": 4,
+"visit_duration": 2,
+"visitors": 2,
+"visits": 2
+},
+{
+"bounce_rate": 100,
+"events": 2,
+"os_version": "14526.69",
+"pageviews": 2,
+"visit_duration": 0,
+"visitors": 2,
+"visits": 2
+},
+{
+"bounce_rate": 50,
+"events": 3,
+"os_version": "13310.93",
+"pageviews": 3,
+"visit_duration": 2,
+"visitors": 2,
+"visits": 2
+},
+{
+"bounce_rate": 100,
+"events": 2,
+"os_version": "13597.66",
+"pageviews": 2,
+"visit_duration": 0,
+"visitors": 2,
+"visits": 2
+},
+{
+"bounce_rate": 50,
+"events": 7,
+"os_version": "1.53",
+"pageviews": 7,
+"visit_duration": 120,
+"visitors": 2,
+"visits": 2
+},
+{
+"bounce_rate": 0,
+"events": 4,
+"os_version": "15081.0",
+"pageviews": 4,
+"visit_duration": 168,
+"visitors": 2,
+"visits": 2
+},
+{
+"bounce_rate": 100,
+"events": 2,
+"os_version": "14816.82",
+"pageviews": 2,
+"visit_duration": 0,
+"visitors": 2,
+"visits": 2
+},
+{
+"bounce_rate": 0,
+"events": 6,
+"os_version": "8.4",
+"pageviews": 6,
+"visit_duration": 0,
+"visitors": 2,
+"visits": 3
+},
+{
+"bounce_rate": 100,
+"events": 2,
+"os_version": "14268.67",
+"pageviews": 2,
+"visit_duration": 0,
+"visitors": 2,
+"visits": 2
+},
+{
+"bounce_rate": 100,
+"events": 2,
+"os_version": "11.12",
+"pageviews": 2,
+"visit_duration": 0,
+"visitors": 2,
+"visits": 2
+},
+{
+"bounce_rate": 100,
+"events": 2,
+"os_version": "14150.64",
+"pageviews": 2,
+"visit_duration": 0,
+"visitors": 2,
+"visits": 2
+},
+{
+"bounce_rate": 100,
+"events": 2,
+"os_version": "15183.98",
+"pageviews": 2,
+"visit_duration": 0,
+"visitors": 2,
+"visits": 2
+},
+{
+"bounce_rate": 0,
+"events": 4,
+"os_version": "14388.52",
+"pageviews": 4,
+"visit_duration": 659,
+"visitors": 2,
+"visits": 2
+},
+{
+"bounce_rate": 100,
+"events": 2,
+"os_version": "2.0",
+"pageviews": 2,
+"visit_duration": 0,
+"visitors": 2,
+"visits": 2
+},
+{
+"bounce_rate": 100,
+"events": 1,
+"os_version": "2.21",
+"pageviews": 1,
+"visit_duration": 0,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 0,
+"events": 4,
+"os_version": "30",
+"pageviews": 4,
+"visit_duration": 88,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 100,
+"events": 1,
+"os_version": "10032.86",
+"pageviews": 1,
+"visit_duration": 0,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 100,
+"events": 1,
+"os_version": "15183.69",
+"pageviews": 1,
+"visit_duration": 0,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 0,
+"events": 2,
+"os_version": "14268.104",
+"pageviews": 2,
+"visit_duration": 3,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 100,
+"events": 1,
+"os_version": "14469.59",
+"pageviews": 1,
+"visit_duration": 0,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 100,
+"events": 1,
+"os_version": "3912.101",
+"pageviews": 1,
+"visit_duration": 0,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 100,
+"events": 1,
+"os_version": "15117.86",
+"pageviews": 1,
+"visit_duration": 0,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 100,
+"events": 1,
+"os_version": "15329.44",
+"pageviews": 1,
+"visit_duration": 0,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 0,
+"events": 6,
+"os_version": "13904.55",
+"pageviews": 6,
+"visit_duration": 1780,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 100,
+"events": 1,
+"os_version": "14816.99",
+"pageviews": 1,
+"visit_duration": 0,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 100,
+"events": 1,
+"os_version": "12607.82",
+"pageviews": 1,
+"visit_duration": 0,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 100,
+"events": 1,
+"os_version": "1.64",
+"pageviews": 1,
+"visit_duration": 0,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 100,
+"events": 1,
+"os_version": "13505.100",
+"pageviews": 1,
+"visit_duration": 0,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 0,
+"events": 3,
+"os_version": "13982.88",
+"pageviews": 3,
+"visit_duration": 1174,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 100,
+"events": 1,
+"os_version": "14803.0",
+"pageviews": 1,
+"visit_duration": 0,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 100,
+"events": 1,
+"os_version": "6.73",
+"pageviews": 1,
+"visit_duration": 0,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 100,
+"events": 1,
+"os_version": "6.5",
+"pageviews": 1,
+"visit_duration": 0,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 50,
+"events": 3,
+"os_version": "13729.72",
+"pageviews": 3,
+"visit_duration": 24,
+"visitors": 1,
+"visits": 2
+},
+{
+"bounce_rate": 100,
+"events": 1,
+"os_version": "15229.0",
+"pageviews": 1,
+"visit_duration": 0,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 100,
+"events": 1,
+"os_version": "4.19",
+"pageviews": 1,
+"visit_duration": 0,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 0,
+"events": 2,
+"os_version": "13729.56",
+"pageviews": 2,
+"visit_duration": 13,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 100,
+"events": 1,
+"os_version": "13099.72",
+"pageviews": 1,
+"visit_duration": 0,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 100,
+"events": 1,
+"os_version": "14268.82",
+"pageviews": 1,
+"visit_duration": 0,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 100,
+"events": 1,
+"os_version": "8.3",
+"pageviews": 1,
+"visit_duration": 0,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 100,
+"events": 1,
+"os_version": "13729.84",
+"pageviews": 1,
+"visit_duration": 0,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 100,
+"events": 1,
+"os_version": "11151.113",
+"pageviews": 1,
+"visit_duration": 0,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 100,
+"events": 1,
+"os_version": "12739.111",
+"pageviews": 1,
+"visit_duration": 0,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 0,
+"events": 2,
+"os_version": "13816.64",
+"pageviews": 2,
+"visit_duration": 70,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 100,
+"events": 1,
+"os_version": "17.1",
+"pageviews": 1,
+"visit_duration": 0,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 0,
+"events": 2,
+"os_version": "5.80",
+"pageviews": 2,
+"visit_duration": 50,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 100,
+"events": 1,
+"os_version": "5.81",
+"pageviews": 1,
+"visit_duration": 0,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 100,
+"events": 1,
+"os_version": "14469.41",
+"pageviews": 1,
+"visit_duration": 0,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 100,
+"events": 1,
+"os_version": "13816.80",
+"pageviews": 1,
+"visit_duration": 0,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 0,
+"events": 2,
+"os_version": "12239.67",
+"pageviews": 2,
+"visit_duration": 10,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 100,
+"events": 1,
+"os_version": "6.4",
+"pageviews": 1,
+"visit_duration": 0,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 100,
+"events": 1,
+"os_version": "13505.73",
+"pageviews": 1,
+"visit_duration": 0,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 100,
+"events": 1,
+"os_version": "14324.80",
+"pageviews": 1,
+"visit_duration": 0,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 100,
+"events": 1,
+"os_version": "13099.102",
+"pageviews": 1,
+"visit_duration": 0,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 100,
+"events": 1,
+"os_version": "12105.75",
+"pageviews": 1,
+"visit_duration": 0,
+"visitors": 1,
+"visits": 1
+}
+]

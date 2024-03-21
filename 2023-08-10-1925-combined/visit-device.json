@@ -1,0 +1,38 @@
+[
+{
+"bounce_rate": 73,
+"device": "Desktop",
+"events": 9973075,
+"pageviews": 9973075,
+"visit_duration": 149,
+"visitors": 4536873,
+"visits": 5944001
+},
+{
+"bounce_rate": 75,
+"device": "Mobile",
+"events": 837368,
+"pageviews": 837368,
+"visit_duration": 94,
+"visitors": 448322,
+"visits": 497984
+},
+{
+"bounce_rate": 68,
+"device": "Tablet",
+"events": 62204,
+"pageviews": 62204,
+"visit_duration": 146,
+"visitors": 25605,
+"visits": 29796
+},
+{
+"bounce_rate": 74,
+"device": "(not set)",
+"events": 5068,
+"pageviews": 5068,
+"visit_duration": 133,
+"visitors": 2213,
+"visits": 2555
+}
+]

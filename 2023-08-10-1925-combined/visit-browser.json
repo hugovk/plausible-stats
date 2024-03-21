@@ -1,0 +1,1235 @@
+[
+{
+"bounce_rate": 74,
+"browser": "Chrome",
+"events": 6789021,
+"pageviews": 6789021,
+"visit_duration": 144,
+"visitors": 3205024,
+"visits": 4167852
+},
+{
+"bounce_rate": 69,
+"browser": "Microsoft Edge",
+"events": 1672995,
+"pageviews": 1672995,
+"visit_duration": 151,
+"visitors": 692876,
+"visits": 884633
+},
+{
+"bounce_rate": 71,
+"browser": "Firefox",
+"events": 1279445,
+"pageviews": 1279445,
+"visit_duration": 167,
+"visitors": 555507,
+"visits": 722943
+},
+{
+"bounce_rate": 76,
+"browser": "Safari",
+"events": 720429,
+"pageviews": 720429,
+"visit_duration": 115,
+"visitors": 389098,
+"visits": 456702
+},
+{
+"bounce_rate": 73,
+"browser": "Opera",
+"events": 135444,
+"pageviews": 135444,
+"visit_duration": 110,
+"visitors": 65805,
+"visits": 82273
+},
+{
+"bounce_rate": 78,
+"browser": "Yandex Browser",
+"events": 117121,
+"pageviews": 117121,
+"visit_duration": 120,
+"visitors": 64805,
+"visits": 80665
+},
+{
+"bounce_rate": 68,
+"browser": "Mobile App",
+"events": 46903,
+"pageviews": 46903,
+"visit_duration": 94,
+"visitors": 20933,
+"visits": 22205
+},
+{
+"bounce_rate": 72,
+"browser": "Samsung Browser",
+"events": 22200,
+"pageviews": 22200,
+"visit_duration": 120,
+"visitors": 10421,
+"visits": 11958
+},
+{
+"bounce_rate": 71,
+"browser": "DuckDuckGo Privacy Browser",
+"events": 12001,
+"pageviews": 12001,
+"visit_duration": 126,
+"visitors": 5124,
+"visits": 5910
+},
+{
+"bounce_rate": 57,
+"browser": "Smart Lenovo Browser",
+"events": 9977,
+"pageviews": 9977,
+"visit_duration": 112,
+"visitors": 3829,
+"visits": 4211
+},
+{
+"bounce_rate": 73,
+"browser": "Whale Browser",
+"events": 7181,
+"pageviews": 7181,
+"visit_duration": 114,
+"visitors": 3496,
+"visits": 4251
+},
+{
+"bounce_rate": 67,
+"browser": "Avast Secure Browser",
+"events": 6286,
+"pageviews": 6286,
+"visit_duration": 138,
+"visitors": 2736,
+"visits": 3207
+},
+{
+"bounce_rate": 59,
+"browser": "QQ Browser",
+"events": 7068,
+"pageviews": 7068,
+"visit_duration": 118,
+"visitors": 2666,
+"visits": 2930
+},
+{
+"bounce_rate": 83,
+"browser": "(not set)",
+"events": 4579,
+"pageviews": 4579,
+"visit_duration": 80,
+"visitors": 2544,
+"visits": 2764
+},
+{
+"bounce_rate": 48,
+"browser": "Huawei Browser Mobile",
+"events": 7514,
+"pageviews": 7514,
+"visit_duration": 166,
+"visitors": 2438,
+"visits": 2726
+},
+{
+"bounce_rate": 59,
+"browser": "QtWebEngine",
+"events": 6018,
+"pageviews": 6018,
+"visit_duration": 229,
+"visitors": 1892,
+"visits": 2802
+},
+{
+"bounce_rate": 67,
+"browser": "MIUI Browser",
+"events": 4175,
+"pageviews": 4175,
+"visit_duration": 138,
+"visitors": 1762,
+"visits": 2003
+},
+{
+"bounce_rate": 70,
+"browser": "Sogou Explorer",
+"events": 3779,
+"pageviews": 3779,
+"visit_duration": 105,
+"visitors": 1611,
+"visits": 1797
+},
+{
+"bounce_rate": 74,
+"browser": "Quark",
+"events": 3342,
+"pageviews": 3342,
+"visit_duration": 93,
+"visitors": 1369,
+"visits": 1456
+},
+{
+"bounce_rate": 68,
+"browser": "vivo Browser",
+"events": 2513,
+"pageviews": 2513,
+"visit_duration": 85,
+"visitors": 1246,
+"visits": 1296
+},
+{
+"bounce_rate": 70,
+"browser": "AVG Secure Browser",
+"events": 2312,
+"pageviews": 2312,
+"visit_duration": 126,
+"visitors": 1094,
+"visits": 1272
+},
+{
+"bounce_rate": 67,
+"browser": "UC Browser",
+"events": 1848,
+"pageviews": 1848,
+"visit_duration": 60,
+"visitors": 970,
+"visits": 1006
+},
+{
+"bounce_rate": 61,
+"browser": "Huawei Browser",
+"events": 1699,
+"pageviews": 1699,
+"visit_duration": 141,
+"visitors": 579,
+"visits": 673
+},
+{
+"bounce_rate": 69,
+"browser": "Opera GX",
+"events": 1198,
+"pageviews": 1198,
+"visit_duration": 114,
+"visitors": 566,
+"visits": 638
+},
+{
+"bounce_rate": 67,
+"browser": "Mobile Silk",
+"events": 1353,
+"pageviews": 1353,
+"visit_duration": 131,
+"visitors": 561,
+"visits": 667
+},
+{
+"bounce_rate": 71,
+"browser": "Notion",
+"events": 822,
+"pageviews": 822,
+"visit_duration": 130,
+"visitors": 404,
+"visits": 488
+},
+{
+"bounce_rate": 78,
+"browser": "Ecosia",
+"events": 648,
+"pageviews": 648,
+"visit_duration": 102,
+"visitors": 364,
+"visits": 428
+},
+{
+"bounce_rate": 68,
+"browser": "CCleaner",
+"events": 761,
+"pageviews": 761,
+"visit_duration": 98,
+"visitors": 363,
+"visits": 409
+},
+{
+"bounce_rate": 71,
+"browser": "Opera Touch",
+"events": 826,
+"pageviews": 826,
+"visit_duration": 149,
+"visitors": 343,
+"visits": 379
+},
+{
+"bounce_rate": 61,
+"browser": "Falkon",
+"events": 852,
+"pageviews": 852,
+"visit_duration": 204,
+"visitors": 280,
+"visits": 380
+},
+{
+"bounce_rate": 76,
+"browser": "Chromium",
+"events": 431,
+"pageviews": 431,
+"visit_duration": 94,
+"visitors": 258,
+"visits": 315
+},
+{
+"bounce_rate": 80,
+"browser": "Atom",
+"events": 423,
+"pageviews": 423,
+"visit_duration": 79,
+"visitors": 257,
+"visits": 311
+},
+{
+"bounce_rate": 73,
+"browser": "Iron",
+"events": 460,
+"pageviews": 460,
+"visit_duration": 178,
+"visitors": 220,
+"visits": 278
+},
+{
+"bounce_rate": 66,
+"browser": "Phoenix Browser",
+"events": 469,
+"pageviews": 469,
+"visit_duration": 141,
+"visitors": 196,
+"visits": 205
+},
+{
+"bounce_rate": 72,
+"browser": "Pale Moon",
+"events": 445,
+"pageviews": 445,
+"visit_duration": 223,
+"visitors": 189,
+"visits": 251
+},
+{
+"bounce_rate": 67,
+"browser": "Openwave Mobile Browser",
+"events": 280,
+"pageviews": 280,
+"visit_duration": 135,
+"visitors": 142,
+"visits": 150
+},
+{
+"bounce_rate": 67,
+"browser": "Android Browser",
+"events": 337,
+"pageviews": 337,
+"visit_duration": 97,
+"visitors": 139,
+"visits": 142
+},
+{
+"bounce_rate": 72,
+"browser": "SeaMonkey",
+"events": 264,
+"pageviews": 264,
+"visit_duration": 197,
+"visitors": 100,
+"visits": 137
+},
+{
+"bounce_rate": 61,
+"browser": "UBrowser",
+"events": 247,
+"pageviews": 247,
+"visit_duration": 131,
+"visitors": 99,
+"visits": 107
+},
+{
+"bounce_rate": 75,
+"browser": "Chromium GOST",
+"events": 228,
+"pageviews": 228,
+"visit_duration": 191,
+"visitors": 93,
+"visits": 115
+},
+{
+"bounce_rate": 74,
+"browser": "Sleipnir",
+"events": 147,
+"pageviews": 147,
+"visit_duration": 159,
+"visitors": 91,
+"visits": 102
+},
+{
+"bounce_rate": 89,
+"browser": "Steam In-Game Overlay",
+"events": 133,
+"pageviews": 133,
+"visit_duration": 54,
+"visitors": 63,
+"visits": 103
+},
+{
+"bounce_rate": 72,
+"browser": "AdBlock Browser",
+"events": 130,
+"pageviews": 130,
+"visit_duration": 97,
+"visitors": 60,
+"visits": 69
+},
+{
+"bounce_rate": 28,
+"browser": "Soul Browser",
+"events": 1352,
+"pageviews": 1352,
+"visit_duration": 1516,
+"visitors": 57,
+"visits": 149
+},
+{
+"bounce_rate": 67,
+"browser": "Maxthon",
+"events": 127,
+"pageviews": 127,
+"visit_duration": 153,
+"visitors": 51,
+"visits": 57
+},
+{
+"bounce_rate": 69,
+"browser": "Internet Explorer",
+"events": 81,
+"pageviews": 81,
+"visit_duration": 22,
+"visitors": 46,
+"visits": 48
+},
+{
+"bounce_rate": 85,
+"browser": "SFive",
+"events": 56,
+"pageviews": 56,
+"visit_duration": 30,
+"visitors": 42,
+"visits": 47
+},
+{
+"bounce_rate": 67,
+"browser": "Aloha Browser",
+"events": 92,
+"pageviews": 92,
+"visit_duration": 137,
+"visitors": 39,
+"visits": 42
+},
+{
+"bounce_rate": 56,
+"browser": "Waterfox",
+"events": 150,
+"pageviews": 150,
+"visit_duration": 342,
+"visitors": 38,
+"visits": 50
+},
+{
+"bounce_rate": 49,
+"browser": "Edge WebView",
+"events": 122,
+"pageviews": 122,
+"visit_duration": 88,
+"visitors": 35,
+"visits": 35
+},
+{
+"bounce_rate": 71,
+"browser": "Ghostery Privacy Browser",
+"events": 76,
+"pageviews": 76,
+"visit_duration": 174,
+"visitors": 30,
+"visits": 35
+},
+{
+"bounce_rate": 40,
+"browser": "Meizu Browser",
+"events": 67,
+"pageviews": 67,
+"visit_duration": 40,
+"visitors": 28,
+"visits": 30
+},
+{
+"bounce_rate": 89,
+"browser": "Konqueror",
+"events": 41,
+"pageviews": 41,
+"visit_duration": 29,
+"visitors": 27,
+"visits": 27
+},
+{
+"bounce_rate": 86,
+"browser": "Vivaldi",
+"events": 41,
+"pageviews": 41,
+"visit_duration": 128,
+"visitors": 27,
+"visits": 28
+},
+{
+"bounce_rate": 87,
+"browser": "UC Browser Turbo",
+"events": 28,
+"pageviews": 28,
+"visit_duration": 16,
+"visitors": 23,
+"visits": 23
+},
+{
+"bounce_rate": 70,
+"browser": "Firefox Rocket",
+"events": 69,
+"pageviews": 69,
+"visit_duration": 280,
+"visitors": 23,
+"visits": 37
+},
+{
+"bounce_rate": 90,
+"browser": "Cheetah Browser",
+"events": 26,
+"pageviews": 26,
+"visit_duration": 10,
+"visitors": 20,
+"visits": 20
+},
+{
+"bounce_rate": 46,
+"browser": "115 Browser",
+"events": 89,
+"pageviews": 89,
+"visit_duration": 190,
+"visitors": 20,
+"visits": 26
+},
+{
+"bounce_rate": 50,
+"browser": "surf",
+"events": 44,
+"pageviews": 44,
+"visit_duration": 140,
+"visitors": 17,
+"visits": 20
+},
+{
+"bounce_rate": 65,
+"browser": "Light",
+"events": 63,
+"pageviews": 63,
+"visit_duration": 204,
+"visitors": 17,
+"visits": 17
+},
+{
+"bounce_rate": 74,
+"browser": "Viasat Browser",
+"events": 28,
+"pageviews": 28,
+"visit_duration": 178,
+"visitors": 16,
+"visits": 19
+},
+{
+"bounce_rate": 81,
+"browser": "Midori",
+"events": 23,
+"pageviews": 23,
+"visit_duration": 56,
+"visitors": 16,
+"visits": 16
+},
+{
+"bounce_rate": 93,
+"browser": "Oculus Browser",
+"events": 16,
+"pageviews": 16,
+"visit_duration": 1,
+"visitors": 15,
+"visits": 15
+},
+{
+"bounce_rate": 54,
+"browser": "Oppo Browser",
+"events": 22,
+"pageviews": 22,
+"visit_duration": 43,
+"visitors": 13,
+"visits": 13
+},
+{
+"bounce_rate": 64,
+"browser": "Stargon",
+"events": 48,
+"pageviews": 48,
+"visit_duration": 137,
+"visitors": 13,
+"visits": 14
+},
+{
+"bounce_rate": 67,
+"browser": "CoolBrowser",
+"events": 42,
+"pageviews": 42,
+"visit_duration": 156,
+"visitors": 12,
+"visits": 12
+},
+{
+"bounce_rate": 54,
+"browser": "Mypal",
+"events": 26,
+"pageviews": 26,
+"visit_duration": 41,
+"visitors": 12,
+"visits": 13
+},
+{
+"bounce_rate": 77,
+"browser": "Yahoo! Japan Browser",
+"events": 53,
+"pageviews": 53,
+"visit_duration": 433,
+"visitors": 12,
+"visits": 13
+},
+{
+"bounce_rate": 62,
+"browser": "Coc Coc",
+"events": 33,
+"pageviews": 33,
+"visit_duration": 31,
+"visitors": 12,
+"visits": 13
+},
+{
+"bounce_rate": 86,
+"browser": "Lenovo Browser",
+"events": 25,
+"pageviews": 25,
+"visit_duration": 131,
+"visitors": 12,
+"visits": 14
+},
+{
+"bounce_rate": 75,
+"browser": "NetFront",
+"events": 20,
+"pageviews": 20,
+"visit_duration": 34,
+"visitors": 12,
+"visits": 12
+},
+{
+"bounce_rate": 46,
+"browser": "Mint Browser",
+"events": 29,
+"pageviews": 29,
+"visit_duration": 150,
+"visitors": 12,
+"visits": 13
+},
+{
+"bounce_rate": 64,
+"browser": "Lilo",
+"events": 25,
+"pageviews": 25,
+"visit_duration": 42,
+"visitors": 10,
+"visits": 11
+},
+{
+"bounce_rate": 100,
+"browser": "Realme Browser",
+"events": 10,
+"pageviews": 10,
+"visit_duration": 0,
+"visitors": 10,
+"visits": 10
+},
+{
+"bounce_rate": 100,
+"browser": "Qwant Mobile",
+"events": 10,
+"pageviews": 10,
+"visit_duration": 0,
+"visitors": 10,
+"visits": 10
+},
+{
+"bounce_rate": 64,
+"browser": "IceDragon",
+"events": 19,
+"pageviews": 19,
+"visit_duration": 173,
+"visitors": 10,
+"visits": 11
+},
+{
+"bounce_rate": 75,
+"browser": "PrivacyWall",
+"events": 18,
+"pageviews": 18,
+"visit_duration": 141,
+"visitors": 9,
+"visits": 12
+},
+{
+"bounce_rate": 91,
+"browser": "GNOME Web",
+"events": 13,
+"pageviews": 13,
+"visit_duration": 20,
+"visitors": 9,
+"visits": 11
+},
+{
+"bounce_rate": 75,
+"browser": "Basilisk",
+"events": 13,
+"pageviews": 13,
+"visit_duration": 292,
+"visitors": 8,
+"visits": 8
+},
+{
+"bounce_rate": 36,
+"browser": "Safe Exam Browser",
+"events": 70,
+"pageviews": 70,
+"visit_duration": 609,
+"visitors": 8,
+"visits": 14
+},
+{
+"bounce_rate": 86,
+"browser": "t-online.de Browser",
+"events": 10,
+"pageviews": 10,
+"visit_duration": 16,
+"visitors": 7,
+"visits": 7
+},
+{
+"bounce_rate": 29,
+"browser": "Iceweasel",
+"events": 15,
+"pageviews": 15,
+"visit_duration": 32,
+"visitors": 7,
+"visits": 7
+},
+{
+"bounce_rate": 43,
+"browser": "Firefox Focus",
+"events": 19,
+"pageviews": 19,
+"visit_duration": 430,
+"visitors": 7,
+"visits": 7
+},
+{
+"bounce_rate": 100,
+"browser": "iCab",
+"events": 6,
+"pageviews": 6,
+"visit_duration": 0,
+"visitors": 6,
+"visits": 6
+},
+{
+"bounce_rate": 100,
+"browser": "CM Browser",
+"events": 6,
+"pageviews": 6,
+"visit_duration": 0,
+"visitors": 6,
+"visits": 6
+},
+{
+"bounce_rate": 100,
+"browser": "Sputnik Browser",
+"events": 7,
+"pageviews": 7,
+"visit_duration": 0,
+"visitors": 6,
+"visits": 7
+},
+{
+"bounce_rate": 38,
+"browser": "WebPositive",
+"events": 27,
+"pageviews": 27,
+"visit_duration": 832,
+"visitors": 6,
+"visits": 8
+},
+{
+"bounce_rate": 50,
+"browser": "Conkeror",
+"events": 24,
+"pageviews": 24,
+"visit_duration": 388,
+"visitors": 6,
+"visits": 10
+},
+{
+"bounce_rate": 100,
+"browser": "Hi Browser",
+"events": 5,
+"pageviews": 5,
+"visit_duration": 0,
+"visitors": 5,
+"visits": 5
+},
+{
+"bounce_rate": 86,
+"browser": "Puffin",
+"events": 8,
+"pageviews": 8,
+"visit_duration": 177,
+"visitors": 5,
+"visits": 7
+},
+{
+"bounce_rate": 80,
+"browser": "Baidu Browser",
+"events": 8,
+"pageviews": 8,
+"visit_duration": 7,
+"visitors": 5,
+"visits": 5
+},
+{
+"bounce_rate": 50,
+"browser": "Opera Devices",
+"events": 10,
+"pageviews": 10,
+"visit_duration": 356,
+"visitors": 5,
+"visits": 6
+},
+{
+"bounce_rate": 60,
+"browser": "AOL Desktop",
+"events": 10,
+"pageviews": 10,
+"visit_duration": 138,
+"visitors": 5,
+"visits": 5
+},
+{
+"bounce_rate": 40,
+"browser": "Raindrop.io",
+"events": 12,
+"pageviews": 12,
+"visit_duration": 42,
+"visitors": 5,
+"visits": 5
+},
+{
+"bounce_rate": 80,
+"browser": "Craving Explorer",
+"events": 16,
+"pageviews": 16,
+"visit_duration": 142,
+"visitors": 5,
+"visits": 5
+},
+{
+"bounce_rate": 100,
+"browser": "Go-http-client",
+"events": 5,
+"pageviews": 5,
+"visit_duration": 0,
+"visitors": 5,
+"visits": 5
+},
+{
+"bounce_rate": 100,
+"browser": "NFS Browser",
+"events": 4,
+"pageviews": 4,
+"visit_duration": 0,
+"visitors": 4,
+"visits": 4
+},
+{
+"bounce_rate": 80,
+"browser": "Python Requests",
+"events": 12,
+"pageviews": 12,
+"visit_duration": 81,
+"visitors": 4,
+"visits": 5
+},
+{
+"bounce_rate": 100,
+"browser": "LieBaoFast",
+"events": 4,
+"pageviews": 4,
+"visit_duration": 0,
+"visitors": 4,
+"visits": 4
+},
+{
+"bounce_rate": 50,
+"browser": "Jio Browser",
+"events": 12,
+"pageviews": 12,
+"visit_duration": 66,
+"visitors": 4,
+"visits": 4
+},
+{
+"bounce_rate": 25,
+"browser": "QQ Browser Lite",
+"events": 9,
+"pageviews": 9,
+"visit_duration": 185,
+"visitors": 4,
+"visits": 4
+},
+{
+"bounce_rate": 50,
+"browser": "Venus Browser",
+"events": 9,
+"pageviews": 9,
+"visit_duration": 35,
+"visitors": 4,
+"visits": 4
+},
+{
+"bounce_rate": 67,
+"browser": "Sogou Mobile Browser",
+"events": 8,
+"pageviews": 8,
+"visit_duration": 95,
+"visitors": 3,
+"visits": 3
+},
+{
+"bounce_rate": 33,
+"browser": "Amigo",
+"events": 6,
+"pageviews": 6,
+"visit_duration": 204,
+"visitors": 3,
+"visits": 3
+},
+{
+"bounce_rate": 100,
+"browser": "Nokia Browser",
+"events": 3,
+"pageviews": 3,
+"visit_duration": 0,
+"visitors": 3,
+"visits": 3
+},
+{
+"bounce_rate": 100,
+"browser": "Reeder",
+"events": 3,
+"pageviews": 3,
+"visit_duration": 0,
+"visitors": 3,
+"visits": 3
+},
+{
+"bounce_rate": 100,
+"browser": "Netscape",
+"events": 3,
+"pageviews": 3,
+"visit_duration": 0,
+"visitors": 3,
+"visits": 3
+},
+{
+"bounce_rate": 100,
+"browser": "Elements Browser",
+"events": 2,
+"pageviews": 2,
+"visit_duration": 0,
+"visitors": 2,
+"visits": 2
+},
+{
+"bounce_rate": 100,
+"browser": "Opera Neon",
+"events": 2,
+"pageviews": 2,
+"visit_duration": 0,
+"visitors": 2,
+"visits": 2
+},
+{
+"bounce_rate": 100,
+"browser": "Seznam Browser",
+"events": 2,
+"pageviews": 2,
+"visit_duration": 0,
+"visitors": 2,
+"visits": 2
+},
+{
+"bounce_rate": 100,
+"browser": "Bloket",
+"events": 2,
+"pageviews": 2,
+"visit_duration": 0,
+"visitors": 2,
+"visits": 2
+},
+{
+"bounce_rate": 100,
+"browser": "Kinza",
+"events": 2,
+"pageviews": 2,
+"visit_duration": 0,
+"visitors": 2,
+"visits": 2
+},
+{
+"bounce_rate": 50,
+"browser": "Iridium",
+"events": 3,
+"pageviews": 3,
+"visit_duration": 119,
+"visitors": 2,
+"visits": 2
+},
+{
+"bounce_rate": 0,
+"browser": "UC Browser Mini",
+"events": 4,
+"pageviews": 4,
+"visit_duration": 246,
+"visitors": 2,
+"visits": 2
+},
+{
+"bounce_rate": 100,
+"browser": "VMware AirWatch",
+"events": 2,
+"pageviews": 2,
+"visit_duration": 0,
+"visitors": 2,
+"visits": 2
+},
+{
+"bounce_rate": 50,
+"browser": "Iron Mobile",
+"events": 4,
+"pageviews": 4,
+"visit_duration": 92,
+"visitors": 2,
+"visits": 2
+},
+{
+"bounce_rate": 100,
+"browser": "Tizen Browser",
+"events": 2,
+"pageviews": 2,
+"visit_duration": 0,
+"visitors": 2,
+"visits": 2
+},
+{
+"bounce_rate": 0,
+"browser": "EUI Browser",
+"events": 3,
+"pageviews": 3,
+"visit_duration": 417,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 100,
+"browser": "Bonsai",
+"events": 1,
+"pageviews": 1,
+"visit_duration": 0,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 100,
+"browser": "Baidu Spark",
+"events": 1,
+"pageviews": 1,
+"visit_duration": 0,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 100,
+"browser": "Arora",
+"events": 1,
+"pageviews": 1,
+"visit_duration": 0,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 100,
+"browser": "Otter Browser",
+"events": 1,
+"pageviews": 1,
+"visit_duration": 0,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 0,
+"browser": "Seraphic Sraf",
+"events": 9,
+"pageviews": 9,
+"visit_duration": 256,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 100,
+"browser": "JavaFX",
+"events": 1,
+"pageviews": 1,
+"visit_duration": 0,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 100,
+"browser": "Splash",
+"events": 1,
+"pageviews": 1,
+"visit_duration": 0,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 0,
+"browser": "IE Mobile",
+"events": 2,
+"pageviews": 2,
+"visit_duration": 232,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 100,
+"browser": "Arctic Fox",
+"events": 1,
+"pageviews": 1,
+"visit_duration": 0,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 0,
+"browser": "ToGate",
+"events": 3,
+"pageviews": 3,
+"visit_duration": 77,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 100,
+"browser": "TenFourFox",
+"events": 1,
+"pageviews": 1,
+"visit_duration": 0,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 0,
+"browser": "QupZilla",
+"events": 25,
+"pageviews": 25,
+"visit_duration": 2040,
+"visitors": 1,
+"visits": 2
+},
+{
+"bounce_rate": 100,
+"browser": "OceanHero",
+"events": 1,
+"pageviews": 1,
+"visit_duration": 0,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 100,
+"browser": "Lynx",
+"events": 1,
+"pageviews": 1,
+"visit_duration": 0,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 100,
+"browser": "Hawk Turbo Browser",
+"events": 1,
+"pageviews": 1,
+"visit_duration": 0,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 100,
+"browser": "QuiteRSS",
+"events": 1,
+"pageviews": 1,
+"visit_duration": 0,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 100,
+"browser": "Microsoft Outlook",
+"events": 1,
+"pageviews": 1,
+"visit_duration": 0,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 100,
+"browser": "Aloha Browser Lite",
+"events": 1,
+"pageviews": 1,
+"visit_duration": 0,
+"visitors": 1,
+"visits": 1
+},
+{
+"bounce_rate": 0,
+"browser": "FreeU",
+"events": 2,
+"pageviews": 2,
+"visit_duration": 980,
+"visitors": 1,
+"visits": 1
+}
+]
